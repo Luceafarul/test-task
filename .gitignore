@@ -1,4 +1,3 @@
 .idea/
 .idea/*.xml
 target/
-build.sbt
